@@ -149,35 +149,6 @@ Then compare the generated sentiment labels with the original star ratings to id
   <li>Top 20 common negative words</li>
 </ul>
 
-<h2>Project Structure</h2>
-
-<pre>
-Sentiment-Analysis-on-Product-Reviews/
-│
-├── dataset/
-│   └── Amazon Product Reviews Dataset
-│
-├── notebooks/
-│   └── sentiment_analysis_product_reviews.ipynb
-│
-├── outputs/
-│   ├── positive_wordcloud.png
-│   ├── negative_wordcloud.png
-│   └── sentiment_score_boxplot.png
-│
-└── README.md
-</pre>
-
-<h2>Learning Value</h2>
-
-<p>
-This project helps in understanding how Natural Language Processing can be used to analyze customer feedback at scale. It connects review text with customer ratings and helps identify cases where the written sentiment does not match the numerical rating.
-</p>
-
-<p>
-The project is useful for learning practical NLP preprocessing, VADER-based sentiment scoring, word cloud generation, rating comparison, and basic sentiment visualization.
-</p>
-
 <h2>Explore More on Codeayan</h2>
 
 <table>
